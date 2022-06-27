@@ -81,8 +81,8 @@ var respecConfig =
     src: "https://open-regels.nl/assets/images/delegitimaat.png",
     alt: "LegitiMaat-logo",
     id: "MinBZK",
-    height: 300,
-    width: 300,
+    height: 150,
+    width: 150,
     url: "https://open-regels.nl",
   },
 
