@@ -4,7 +4,7 @@
 
 **Interdisciplinaire werkmethode:** werkmethode voor een situatie waarin personen uit verschillende disciplines samenwerken.door middel van het integreren van inzichten uit meerdere vakgebieden (disciplines), hebben wij een werkmethode ontwikkeld.
 
-**Open source beleid:** beleid met betrekking tot software waarvan dedit houdt in dat de broncode vrij beschikbaar is. Iedereen kan de broncode lezen, aanpassen en verspreiden. Het zorgt voor openheid in ICT-systemen.
+<dfn>Open source beleid<dfn> beleid met betrekking tot software waarvan dedit houdt in dat de broncode vrij beschikbaar is. Iedereen kan de broncode lezen, aanpassen en verspreiden. Het zorgt voor openheid in ICT-systemen.
 
 **Algoritme:** Algoritme heeft een hele algemene definitie. Het is eigenlijk Eeen eindige set instructies voor het bereiken van een doel. Een algoritme wordt vaak gebruikt om bepaalde beslissingen (deels) te automatiseren. Onderscheiden kan worden tussen _logische algoritmen_ en _statistische algoritmen_.
 
