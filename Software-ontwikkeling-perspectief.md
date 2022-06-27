@@ -1,5 +1,7 @@
 # Software ontwikkeling perspectief
 
+![Tekstueel alternatief voor methode](media/method.svg "Methode")
+
 ## Analyse
 
 | Willen weten                                           |                                                                         |
