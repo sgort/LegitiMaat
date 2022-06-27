@@ -77,12 +77,12 @@ var respecConfig =
   // nl_logo refers to company logo
   // defaults to https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg
   nl_logo: {
-    src: "https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg",
-    alt: "Logius",
-    id: "Logius",
-    height: 77,
-    width: 44,
-    url: "https://www.logius.nl/standaarden",
+    src: "https://open-regels.nl/assets/images/legitimaat-logo.svg",
+    alt: "LegitiMaat-logo",
+    id: "MinBZK",
+    height: 132,
+    width: 132,
+    url: "https://open-regels.nl",
   },
 
 
