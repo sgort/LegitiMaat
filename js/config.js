@@ -78,7 +78,7 @@ var respecConfig =
   // nl_logo refers to company logo
   // defaults to https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg
   nl_logo: {
-    src: "https://open-regels.nl/assets/images/legitimaat-logo.svg",
+    src: "https://open-regels.nl/assets/images/delegitimaat.png",
     alt: "LegitiMaat-logo",
     id: "MinBZK",
     height: 300,
