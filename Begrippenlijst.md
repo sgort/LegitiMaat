@@ -1,6 +1,6 @@
-# **Begrippenlijst**
+# Begrippenlijst
 
-## **Document: De LegitiMaat**
+## Document: De LegitiMaat
 
 **Interdisciplinaire werkmethode:** werkmethode voor een situatie waarin personen uit verschillende disciplines samenwerken.door middel van het integreren van inzichten uit meerdere vakgebieden (disciplines), hebben wij een werkmethode ontwikkeld.
 
@@ -12,7 +12,7 @@
 
 **Interne controller:** Controller in dienst van een organisatie, in tegenstelling tot een externe controller die een controller van buiten de organisatie is.
 
-**De sSource code (broncode):** de originele tekst in een formele taal waaruit de software voorkomtbestaat. Dit is een leesbare tekst voor mensen en bevat de programma-instructies over de werking van de functionaliteit van de code.
+**Source code (broncode):** de originele tekst in een formele taal waaruit de software voorkomtbestaat. Dit is een leesbare tekst voor mensen en bevat de programma-instructies over de werking van de functionaliteit van de code.
 
 **Logische algoritmen:** zogenoemde if-this-then-that (IFTTT)-regels, ofwel instructies die door een mens opgesteld en geprogrammeerd worden. Ook wel aangeduid als 'domme' algoritmen.
 
@@ -20,7 +20,7 @@
 
 **Machine learning:** een vorm van kunstmatige intelligentie die is gericht op het bouwen ontwikkelen van systemen die van de verwerkte data kunnen leren of data gebruiken om beter te kunnen presteren.
 
-## **Juridisch perspectief**
+## Juridisch perspectief
 
 **ABBB:** algemene beginselen van behoorlijk bestuur; ongeschreven regelsprincipes waar de overheid zich aan moet houden bij handelingen en besluiten. Zij zijn deels ongeschreven, en deels neergelegd in de Algemene wet bestuursrecht.
 
@@ -48,7 +48,7 @@
 
 **Procesvertegenwoordigers** : mensen personen die het een bestuursorgaan vertegenwoordigen in beroep of hoger beroep bij de bestuursrechter.
 
-## **Wat en wie**
+## Wat en wie
 
 **Softwareontwikkelaar** : een persoon die zich bezighoudt met het programmeren van software. Een softwareontwikkelaar wordt ook wel programmeur, computerprogrammeur of applicatieontwikkelaar genoemd.
 
@@ -62,6 +62,6 @@
 
 **Regelexpert** : Persoon die expertise bezit over het ontwikkelen van en werken met _regels_ in (overheids)organisaties.
 
-## **Audit/accountants perspectief**
+## Audit/accountants perspectief
 
 **Repository** : een ICT-/-architectenterm voor een bewaarplaats plekplaats waar data, regels of andere IT-gerelateerde artefacten worden bewaardof magazijn.
