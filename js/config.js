@@ -9,36 +9,52 @@ var respecConfig =
   // previousPublishVersion: "(none)",
   //  previousPublishDate: "(none)",
   //  previousMaturity: "WV",
-  editors:
-    [
-      {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
-      }
-    ],
-  authors:
-    [
-      {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
-      }
-    ],
-  github: "https://github.com/Logius-standaarden/API-Design-Rules",
-  
-  
- // Controls if linked "§" section markers are added to a document
- addSectionLinks: true,
- 
-    // this parameter will add the tag_name of the latest release to the document Title
+  editors: [{
+    name: "Mildo Staden",
+    mailto: "Mildo.Staden@minbzk.nl",
+    company: "BZK",
+    companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+  }, {
+    name: "Marlies van Eck",
+    mailto: "marlies@hooghiemstra-en-partners.nl",
+    company: "Hooghiemstra & Partners",
+    companyURL: "https://hooghiemstra-en-partners.nl",
+  }],
+  authors: [{
+    name: "Marlies van Eck",
+    url: "https://hooghiemstra-en-partners.nl",
+  }, {
+    name: "Mariette Lokin",
+    url: "https://www.rijksoverheid.nl/ministeries/ministerie-van-financien",
+  }, {
+    name: "Maike Klip",
+    url: "https://www.nationaleombudsman.nl/",
+  }, {
+    name: "Giulia Bössenecker",
+    url: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+  }, {
+    name: "Carlijn Oldeman",
+    url: "https://hooghiemstra-en-partners.nl",
+  }, {
+    name: "Robert van Doesburg",
+    url: "https://www.tno.nl",
+  }, {
+    name: "Abram Klop",
+    url: "https://www.ubrijk.nl/service/i-interim-rijk",
+  }],
+  github: "https://github.com/sgort/LegitiMaat",
+
+  // Controls if linked "§" section markers are added to a document
+  addSectionLinks: true,
+
+  // this parameter will add the tag_name of the latest release to the document Title
   // only set this parameter when a release has been set
   nl_addReleaseTagTitle: true,
 
-    // nl_organisationName is used for some company specific values in the header (and Sotd)
+  // nl_organisationName is used for some company specific values in the header (and Sotd)
   // currently supported: Logius and Geonovum (default)  
-  nl_organisationName: "Logius",
-  
+  nl_organisationName: "MinBZK",
+
   // this url points to the folder where organsation specific css files are stored
   // defaults to https://tools.geostandaarden.nl/respec/style/ if not set
   nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
