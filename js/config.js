@@ -41,6 +41,9 @@ var respecConfig =
   }, {
     name: "Abram Klop",
     url: "https://www.ubrijk.nl/service/i-interim-rijk",
+  }, {
+    name: "Steven Gort",
+    url: "https://www.ictu.nl",
   }],
   github: "https://github.com/sgort/LegitiMaat",
 
