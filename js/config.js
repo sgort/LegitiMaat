@@ -7,8 +7,8 @@ var respecConfig =
   shortName: "De LegitiMaat",
   publishDate: "2022-06-24",
   publishVersion: "0.0.1",
-  // previousPublishVersion: "(none)",
-  //  previousPublishDate: "(none)",
+  previousPublishVersion: "(none)",
+  previousPublishDate: "(none)",
   //  previousMaturity: "WV",
   editors: [{
     name: "Mildo Staden",
