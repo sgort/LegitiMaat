@@ -1,9 +1,10 @@
 var respecConfig =
 {
-  specStatus: "WV",
+  specStatus: "unofficial",
   specType: "HR",
   pubDomain: "dk",
-  shortName: "template",
+  subtitle: "Een werkmethode voor het doen van onderzoek door derden naar het gebruik van algoritmen door een overheidsorganisatie.",
+  shortName: "De LegitiMaat",
   publishDate: "2022-06-24",
   publishVersion: "0.0.1",
   // previousPublishVersion: "(none)",
