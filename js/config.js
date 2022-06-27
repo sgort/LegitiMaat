@@ -1,6 +1,6 @@
 var respecConfig =
 {
-  specStatus: "unofficial",
+  specStatus: "WV",
   specType: "HR",
   pubDomain: "dk",
   subtitle: "Een werkmethode voor het doen van onderzoek door derden naar het gebruik van algoritmen door een overheidsorganisatie.",
