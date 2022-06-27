@@ -61,3 +61,5 @@
 *Toelichting:*
 
 *Bij de analyse is communicatiebeleid vastgesteld voor én over(!) de oplossing(en). Hier wordt de verbinding gemaakt met de wijze waarop dat voor alle toetsscenario’s is verwerkt in vaste en/of vrije tekst(en).*
+
+Toon hier een referentie uit locale lijst [[SemVer]].
