@@ -1,5 +1,9 @@
 # Taakverdeling
 
+<p class="note" title="index">
+Dit hoofdstuk is toegevoegd met `class="informative"` in `index.html`.
+</p>
+
 Procesplaat & beschrijving van de rollen en functies van ambtenaren die betrokken zijn bij deze voortbrenging. **Abram en Maike**
 
 Analyse van de vertaling van wet naar bedrijfsregels + binnen welke kaders dit gebeurt en met welke standaarden. **Mariette**

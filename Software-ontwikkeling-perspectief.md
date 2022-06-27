@@ -62,4 +62,21 @@
 
 *Bij de analyse is communicatiebeleid vastgesteld voor én over(!) de oplossing(en). Hier wordt de verbinding gemaakt met de wijze waarop dat voor alle toetsscenario’s is verwerkt in vaste en/of vrije tekst(en).*
 
-Toon hier een referentie uit locale lijst [[SemVer]].
+Toon hier een referentie uit locale lijst [[SemVer]]. Lijst staat in `config.js`. Alleen referenties die in de tekst voorkomen worden getoond.
+
+## Optioneel
+
+De onderstaande secties (_Conformiteit_ e.d.) zijn optioneel, zie `index.html`:
+
+```
+<body>
+  <section id="abstract" data-include-format="markdown" data-include="abstract.md"></section>
+  <section id="sotd"></section><!-- Wordt automatisch gevuld -->
+  <section data-include-format="markdown" class="informative" data-include="ch01.md"></section>
+  <section data-include-format="markdown" data-include="ch02.md"></section>
+  <!-- Hieronder optionele secties. Worden automatisch gevuld -->
+  <section id='conformance'></section>
+  <section id='tof'></section>
+  <section id="index"></section>
+</body>
+```
