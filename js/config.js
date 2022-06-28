@@ -85,7 +85,8 @@ var respecConfig =
     width: 150,
     url: "https://open-regels.nl",
   },
-
+  // enable automatic external reference linking
+  xref: true,
 
   localBiblio: {
     "SemVer": {
