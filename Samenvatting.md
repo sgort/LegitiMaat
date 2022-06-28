@@ -4,4 +4,4 @@ In deze zin linken we het woord [=Open source beleid=] naar de begrippenlijst.
 
 The link element is defined in the [[HTML]] spec.
 
-Automatic external reference linking should be working now for [= URL parser =].
+Automatic external reference linking should be working now for [=URL parser=].
