@@ -62,10 +62,6 @@
 
 *Bij de analyse is communicatiebeleid vastgesteld voor én over(!) de oplossing(en). Hier wordt de verbinding gemaakt met de wijze waarop dat voor alle toetsscenario’s is verwerkt in vaste en/of vrije tekst(en).*
 
-Toon hier een referentie uit locale lijst [[SemVer]]. De lijst staat als `localBiblio` in `config.js`. Alleen referenties die in de tekst voorkomen worden getoond.
-
-Als je moet verwijzen naar een document dat aanwezig is op [SpecRef](https://www.specref.org/) dan is het een kwestie van document zoeken en de naam noteren. Voorbeeld: om naar de JSON RFC te verwijzen, zoeken we eenvoudig naar JSON op specref en vinden we met `rfc8259` de passende match. Opnemen dan als [[rfc8259]].
-
 ## Optioneel
 
 De onderstaande secties (_Conformiteit_ e.d.) zijn optioneel, zie `index.html`:
