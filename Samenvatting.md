@@ -6,4 +6,4 @@ The link element is defined in the [[HTML]] spec.
 
 Automatic external reference linking should be working now for [=event handler=]. Maar blijkbaar niet voor [=url parser=] zónder [[URL]] in deze spec?
 
-And what about {{Algorithm}}?
+And what about {{Algorithm}}? Oh well, that requires [[webcryptoapi]]...
